@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Bakr-963
 
-Welcome to my GitHub profile! I'm Bakr Alkanbari, Founder and CEO of BakTech.Ai, and a passionate computer science student at North Central College.
+Welcome to my GitHub profile! I'm Bakr Alkanbari, Technical Project Manager at BakTech.Ai, and a passionate computer science student at North Central College.
 
 ## 👀 I’m interested in...
 - Advanced AI applications in manufacturing and industrial automation.
