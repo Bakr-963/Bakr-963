@@ -17,5 +17,4 @@ Welcome to my GitHub profile! I'm Bakr Alkanbari
 - Initiatives that drive efficiency and quality improvements in technology and manufacturing processes.
 
 ## 📫 How to reach me...
-- Feel free to reach out to me at Bakr2alkanbari@gmail.com.
 - Connect with me on Linkedin https://www.linkedin.com/in/bakr-alkanbari/
